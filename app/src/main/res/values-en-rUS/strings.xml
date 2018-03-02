@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ComponentsUI</string>
+    <string name="scrollview_introduction">Android ScrollView Example</string>
+    <string name="scrollview_scrollview_button">Go to Android ScrollView Example</string>
+    <string name="scrollview_horizontalview_button">Go to Android Horizontal Example</string>
+    <string name="scrollview_buttonexample_button">Go to Button Example</string>
+</resources>

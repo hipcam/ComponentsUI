@@ -5,5 +5,14 @@
     <string name="scrollview_horizontalview_button">Ir a Android Horizontal Example</string>
     <string name="scrollview_buttonexample_button">Ir a Button Example</string>
     <string name="androidbutton_button1_text">Ejemplo de Botón</string>
+    <string-array name="android_layout_arrays">
+        <item>Choose a Layout</item>
+        <item>LinearLayout</item>
+        <item>RelativeLayout</item>
+        <item>FrameLayout</item>
+        <item>TableLayout</item>
+        <item>AbsoluteLayout</item>
+        <item>GridLayout</item>
+    </string-array>
 
 </resources>
